@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rohith1002/rohith1002/blob/main/banner.PNG)
 <h1 align="center">Hi 👋, I'm P V Rohith Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" width=400 src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
